@@ -1,0 +1,75 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : 1.brd                                         )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Mon Mar 16 15:45:26 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		3.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		NO
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	YES
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	YES
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-368): Cannot find NC Drill tool file 'nc_tools.txt'
+ WARNING(SPMHMF-369): ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+         0.2000  P        T01            0.000000     0.000000
+         0.4000  P        T02            0.000000     0.000000
+         0.6350  P        T03            0.000000     0.000000
+         0.6600  P        T04            0.000000     0.000000
+         1.0000  P        T05            0.000000     0.000000
+         1.0200  P        T06            0.000000     0.000000
+         3.2000  P        T07            0.000000     0.000000
+
+
+Drill files being output to directory 'D:/CTW_SEVINA/PCB/DE10_NANO/Version_11/BOARD' ...
+
+
+
+     '1-1-4.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.   0.2000    0.0000/  0.0000      PLATED         12
+     T02    2.   0.4000    0.0000/  0.0000      PLATED         76
+     T03    3.   0.6350    0.0000/  0.0000      PLATED          4
+     T04    4.   0.6600    0.0000/  0.0000      PLATED          6
+     T05    5.   1.0000    0.0000/  0.0000      PLATED         23
+     T06    6.   1.0200    0.0000/  0.0000      PLATED         80
+     T07    7.   3.2000    0.0000/  0.0000      PLATED          4
+
+     ---- Total holes:                                        205
+
+     ---- Total head travel:              5.15 feet (1.57 meters)
+

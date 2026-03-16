@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LOGOVER2.dra                                  )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Thu Mar 12 16:49:53 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: FORMAT
+    Directory = C:/Version_9/BOARD
+    Name      = logover2.osm
+    User      = dungxuan
+    Machine   = DESKTOP-3IHLHB4
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
+
+Create symbol completed.
+

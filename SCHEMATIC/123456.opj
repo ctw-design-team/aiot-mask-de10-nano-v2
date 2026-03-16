@@ -1,0 +1,312 @@
+(ExpressProject "123456"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "22.1 P001 (4063652)  [10/6/2022]-[03/16/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "C:\Version_11\NETLIST")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\123456.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "TRUE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "TRUE")
+    (DRC_Check_Ports_Online "TRUE")
+    (DRC_Check_Unconnected_Nets_Online "TRUE")
+    (DRC_Check_Floating_Pins_Online "TRUE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "FALSE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "FALSE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "FALSE")
+    (DRC_Check_Power_Ground_Short_Online "FALSE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "FALSE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "FALSE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "FALSE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File "c:\version_9\drc.drc")
+    (Display_Online_DRC_Results "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "C:\Version_2 (03 03 2026)\123.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}")
+    (BOM_Header "Item\tQuantity\tReference\tValue\tPCB Footprint")
+    (BOM_Include_File "C:\VERSION_2 (03 03 2026)\SCHEMATIC\123456.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "TRUE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\123456.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\123456.drc"
+      (Type "Report"))
+    (File "..\123.bom"
+      (Type "Report"))
+    (File "..\netlist\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\netlist\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\netlist\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "..\drc.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (FCB-0402-101A
+      (FullPartName "FCB-0402-101A.Normal")
+      (LibraryName
+         "D:\CTW_SEVINA\PCB\DE10_NANO\VERSION_6\SYMBOL\FCB-0402-101A.OLB")
+      (DeviceIndex "0"))
+    (MCP1826S-3302EDB
+      (FullPartName "MCP1826S-3302EDB.Normal")
+      (LibraryName "C:\VERSION_4\SYMBOL\MCP1826S-3302EDB.OLB")
+      (DeviceIndex "0"))
+    (0805YC103J4T2A
+      (FullPartName "0805YC103J4T2A.Normal")
+      (LibraryName "C:\VERSION_2\SYMBOL\CAPACITOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (BH1750FVI-TR
+      (FullPartName "BH1750FVI-TR.Normal")
+      (LibraryName "C:\VERSION_2\SYMBOL\BH1750FVI-TR.OLB")
+      (DeviceIndex "0"))
+    (AHT20
+      (FullPartName "AHT20.Normal")
+      (LibraryName "C:\VERSION_2\SYMBOL\AHT20.OLB")
+      (DeviceIndex "0"))
+    (TitleBlock0
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("TEST POINT"
+      (FullPartName "TEST POINT.Normal")
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName "C:\2 3 2026\SYMBOL\SMD-RES-33R-1-110W0603.OLB")
+      (DeviceIndex "0"))
+    (TS-104-G-AA
+      (FullPartName "TS-104-G-AA.Normal")
+      (LibraryName "C:\26 2\HEADER 1X4\TS-104-G-AA.OLB")
+      (DeviceIndex "0"))
+    (RC0805JR-070RL
+      (FullPartName "RC0805JR-070RL.Normal")
+      (LibraryName "C:\26 2\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (BBS-106-X-X
+      (FullPartName "BBS-106-X-X.Normal")
+      (LibraryName "C:\26 2\HEADER 1X6\BBS-106-X-X.OLB")
+      (DeviceIndex "0"))
+    (ESP32-WROOM-32
+      (FullPartName "ESP32-WROOM-32.Normal")
+      (LibraryName "C:\26 2\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (EMOS-ND
+      (FullPartName "EMOS-ND.Normal")
+      (LibraryName "C:\26 2\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (2-1734839-4
+      (FullPartName "2-1734839-4.Normal")
+      (LibraryName "C:\26 2\FPC_24\2-1734839-4.OLB")
+      (DeviceIndex "0"))
+    (PPTC241LFBN-RC
+      (FullPartName "PPTC241LFBN-RC.Normal")
+      (LibraryName "C:\26 2\HEADER 24 CAI\PPTC241LFBN-RC.OLB")
+      (DeviceIndex "0"))
+    (TSW-120-07-G-D-LL
+      (FullPartName "TSW-120-07-G-D-LL.Normal")
+      (LibraryName "C:\26 2\FOOTPRINT_PCB\HEADER 20X2\TSW-120-07-G-D-LL.OLB")
+      (DeviceIndex "0"))
+    (B82477R4154M100
+      (FullPartName "B82477R4154M100.Normal")
+      (LibraryName "C:\26 2\INDUCTOR\B82477R4154M100.OLB")
+      (DeviceIndex "0"))
+    (PMIC-XC6206P
+      (FullPartName "PMIC-XC6206P.Normal")
+      (LibraryName "C:\26 2\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_22.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TD-120-G-AA
+      (FullPartName "TD-120-G-AA.Normal")
+      (LibraryName
+         "C:\26 2\FOOTPRINT_PCB\OTHERS\40X2 HEADER\TD_120_G_AA_FOOTPRINT\ORCADCAPTUREOLB.OLB")
+      (DeviceIndex "0"))
+    (SMAJ15A
+      (FullPartName "SMAJ15A.Normal")
+      (LibraryName
+         "C:\26 2\FOOTPRINT_PCB\OTHERS\DIODE\SMAJ15A\ORCADCAPTUREOLB.OLB")
+      (DeviceIndex "0"))
+    (FH34SRJ-24S-05SH99
+      (FullPartName "FH34SRJ-24S-05SH99.Normal")
+      (LibraryName
+         "C:\26 2\FOOTPRINT_PCB\OTHERS\CAM_HEADER\FH34SRJ-24S-0.5SH_99_\FH34SRJ-24S-05SH99.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "D:\CTW_SEVINA\PCB\DE10_NANO\Version_6\SYMBOL")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\123456.dsn")
+      (Path "Design Resources" ".\123456.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Select "Design Resources" ".\123456.dsn" "SCHEMATIC1" "S5_SENSORS_I2C"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 605"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1325 24 623")
+        (Scroll "-159 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\VERSION_11\SCHEMATIC\123456.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S0_TOP"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1325 24 623")
+        (Scroll "-159 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\VERSION_11\SCHEMATIC\123456.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S1_POWER_TREE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1325 24 623")
+        (Scroll "-159 143")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\VERSION_11\SCHEMATIC\123456.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S2_CAMERA_OV2640_FPC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1325 24 623")
+        (Scroll "-159 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\VERSION_11\SCHEMATIC\123456.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S3_SCCB_LEVEL_SHIFTER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1325 24 623")
+        (Scroll "-159 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\VERSION_11\SCHEMATIC\123456.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S5_SENSORS_I2C"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1325 24 623")
+        (Scroll "-159 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\VERSION_11\SCHEMATIC\123456.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S4_ESP32_MODULE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1325 24 623")
+        (Scroll "-159 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\VERSION_11\SCHEMATIC\123456.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "S6_DEBUG AND TEST ZONE")))
+  (MPSSessionName "dungxuan")
+  (ISPCBBASICLICENSE "false"))

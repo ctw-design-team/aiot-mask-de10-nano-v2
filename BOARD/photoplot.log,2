@@ -1,0 +1,508 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : 1.brd                                         )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Mon Mar 16 13:52:05 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < D:/CTW_SEVINA/PCB/DE10_NANO/Version_9/BOARD/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     0.98500                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.16800                                  DARK 
+  CIRCLE     1.37000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     3.21000                                  DARK 
+  SQUARE     0.98500                     0.000 NO     DARK 
+  SQUARE     1.16800                     0.000 NO     DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  RECTANGLE  0.55000     x 0.25000       0.000 NO     DARK 
+  RECTANGLE  0.88900     x 1.47320      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 2.00000      90.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.19380       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.19380      90.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.20000       0.000 NO     DARK 
+  RECTANGLE  1.10000     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  1.16000     x 1.47000       0.000 NO     DARK 
+  RECTANGLE  1.16000     x 1.47000      90.000 NO     DARK 
+  RECTANGLE  1.33000     x 1.33000      90.000 NO     DARK 
+  RECTANGLE  2.00000     x 0.90000      90.000 NO     DARK 
+  RECTANGLE  3.10000     x 2.30000       0.000 NO     DARK 
+  PAD SHAPE  PS_R71_53_D250             90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < GND >
+     TO FILE < D:/CTW_SEVINA/PCB/DE10_NANO/Version_9/BOARD/GND.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     0.98500                                  DARK 
+  CIRCLE     1.16800                                  DARK 
+  CIRCLE     1.37000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+
+     GND created.
+
+
+================================================================
+     PROCESSING FILM < POWER >
+     TO FILE < D:/CTW_SEVINA/PCB/DE10_NANO/Version_9/BOARD/POWER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     0.98500                                  DARK 
+  CIRCLE     1.16800                                  DARK 
+  CIRCLE     1.37000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+
+     POWER created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < D:/CTW_SEVINA/PCB/DE10_NANO/Version_9/BOARD/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.80000                                  DARK 
+  CIRCLE     0.98500                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.16800                                  DARK 
+  CIRCLE     1.37000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     3.21000                                  DARK 
+  SQUARE     0.98500                     0.000 NO     DARK 
+  SQUARE     1.16800                     0.000 NO     DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.19380       0.000 NO     DARK 
+  RECTANGLE  1.16000     x 1.47000       0.000 NO     DARK 
+  PAD SHAPE  PS_R88_88_D250             90.000 YES    DARK 
+  PAD SHAPE  PS_R88_88_D250            270.000 YES    DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < Silkscreen_bottom >
+     TO FILE < D:/CTW_SEVINA/PCB/DE10_NANO/Version_9/BOARD/Silkscreen_bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (30.5400 34.0500)
+           ... using undefined line width of 0.1270
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1270
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+
+     Silkscreen_bottom created with warnings
+
+
+================================================================
+     PROCESSING FILM < Silkscreen_Top >
+     TO FILE < D:/CTW_SEVINA/PCB/DE10_NANO/Version_9/BOARD/Silkscreen_Top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+
+     Silkscreen_Top created.
+
+
+================================================================
+     PROCESSING FILM < Soldermask_bottom >
+     TO FILE < D:/CTW_SEVINA/PCB/DE10_NANO/Version_9/BOARD/Soldermask_bottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     1.18500                                  DARK 
+  CIRCLE     1.36800                                  DARK 
+  CIRCLE     1.57000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  SQUARE     1.18500                     0.000 NO     DARK 
+  SQUARE     1.36800                     0.000 NO     DARK 
+  SQUARE     1.57000                     0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.19380       0.000 NO     DARK 
+  RECTANGLE  1.36000     x 1.67000       0.000 NO     DARK 
+  PAD SHAPE  PS_R88_88_D250             90.000 YES    DARK 
+  PAD SHAPE  PS_R88_88_D250            270.000 YES    DARK 
+
+     Soldermask_bottom created.
+
+
+================================================================
+     PROCESSING FILM < Soldermask_top >
+     TO FILE < D:/CTW_SEVINA/PCB/DE10_NANO/Version_9/BOARD/Soldermask_top.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Arc segment with end points of
+	(82.73, 26.85) and (82.47 26.85) converted to a line.
+	Its center location (81.52 -119.91) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(87.10, 26.21) and (87.36 26.21) converted to a line.
+	Its center location (86.52 156.67) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(87.10, 26.40) and (86.90 26.40) converted to a line.
+	Its center location (87.72 135.27) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(87.77, 26.86) and (87.47 26.86) converted to a line.
+	Its center location (85.91 -126.70) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(85.37, 29.33) and (85.36 29.63) converted to a line.
+	Its center location (-27.54 28.73) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(82.40, 27.74) and (82.06 27.74) converted to a line.
+	Its center location (82.23 -154.90) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(92.17, 60.87) and (91.21 60.87) converted to a line.
+	Its center location (91.16 -151.44) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(85.56, 12.34) and (85.42 12.09) converted to a line.
+	Its center location (209.22 -59.06) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(86.49, 19.00) and (86.70 19.00) converted to a line.
+	Its center location (86.16 134.25) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(85.99, 18.41) and (86.38 18.42) converted to a line.
+	Its center location (85.99 150.06) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(86.82, 18.71) and (86.56 18.71) converted to a line.
+	Its center location (85.74 -120.95) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(86.56, 18.71) and (86.26 18.71) converted to a line.
+	Its center location (85.93 -90.95) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(86.26, 18.71) and (85.96 18.71) converted to a line.
+	Its center location (85.93 -85.72) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(85.71, 16.97) and (85.89 17.04) converted to a line.
+	Its center location (123.27 -84.56) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(87.98, 43.45) and (88.32 43.45) converted to a line.
+	Its center location (89.23 176.74) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(89.18, 42.71) and (88.83 42.71) converted to a line.
+	Its center location (87.67 208.44) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(87.79, 46.96) and (88.19 47.10) converted to a line.
+	Its center location (16.64 244.03) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(89.14, 46.91) and (88.82 46.80) converted to a line.
+	Its center location (150.98 -138.09) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(88.85, 46.40) and (89.29 46.25) converted to a line.
+	Its center location (131.80 172.75) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(87.82, 44.99) and (87.17 44.88) converted to a line.
+	Its center location (142.00 -289.15) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(89.55, 50.90) and (90.81 50.90) converted to a line.
+	Its center location (89.96 358.17) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(91.86, 51.87) and (91.87 52.98) converted to a line.
+	Its center location (-472.07 53.49) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(85.57, 54.69) and (85.57 55.07) converted to a line.
+	Its center location (221.65 54.67) is too large for
+	specified integer accuracy of 2 places.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     1.18500                                  DARK 
+  CIRCLE     1.36800                                  DARK 
+  CIRCLE     1.57000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  SQUARE     1.18500                     0.000 NO     DARK 
+  SQUARE     1.36800                     0.000 NO     DARK 
+  SQUARE     1.57000                     0.000 NO     DARK 
+  RECTANGLE  0.75000     x 0.45000       0.000 NO     DARK 
+  RECTANGLE  0.88900     x 1.47320      90.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.19380       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.19380      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 2.20000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  1.21600     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 0.50000       0.000 NO     DARK 
+  RECTANGLE  1.36000     x 1.67000       0.000 NO     DARK 
+  RECTANGLE  1.36000     x 1.67000      90.000 NO     DARK 
+  RECTANGLE  1.53000     x 1.53000      90.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  3.30000     x 2.50000       0.000 NO     DARK 
+  PAD SHAPE  PS_R90_73_D250             90.000 NO     DARK 
+
+     Soldermask_top created with warnings
+
+
+================================================================
+     PROCESSING FILM < Drill >
+     TO FILE < D:/CTW_SEVINA/PCB/DE10_NANO/Version_9/BOARD/Drill.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-3.1800 67.9100)
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+
+     Drill created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        GND created.
+        POWER created.
+        BOTTOM created.
+        Silkscreen_bottom created with warnings
+        Silkscreen_Top created.
+        Soldermask_bottom created.
+        Soldermask_top created with warnings
+        Drill created with warnings
+
+ ARTWORK had warnings

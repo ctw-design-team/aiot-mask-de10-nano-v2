@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FB_FCB-0402-101A.dra                          )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Tue Mar 10 21:16:07 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/CTW_SEVINA/PCB/DE10_NANO/Version_6/FOOTPRINT
+    Name      = fb_fcb-0402-101a.psm
+    User      = Nhat Nam
+    Machine   = NHATNAM
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

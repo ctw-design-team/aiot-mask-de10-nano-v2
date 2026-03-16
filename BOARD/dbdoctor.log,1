@@ -1,0 +1,60 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : 1.brd                                         )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Mon Mar 16 14:05:21 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in ARC SEGMENT end_points = (-107.0805 -78.6397) - (-107.0806 -78.6398)
+  class = BOARD GEOMETRY
+  subclass = SOLDERMASK_TOP 
+  Part of Symbol Def LOGO.
+  ERROR(SPMHUT-144): Illegal arc specification.
+   Error was fixed.
+
+ERROR: in ARC SEGMENT end_points = (-107.0806 -78.6398) - (-107.0808 -78.6398)
+  class = BOARD GEOMETRY
+  subclass = SOLDERMASK_TOP 
+  Part of Symbol Def LOGO.
+  ERROR(SPMHUT-144): Illegal arc specification.
+   Error was fixed.
+
+ERROR: in ARC SEGMENT end_points = (-89.9106 -78.6265) - (-89.9108 -78.6265)
+  class = BOARD GEOMETRY
+  subclass = SOLDERMASK_TOP 
+  Part of Symbol Def LOGO.
+  ERROR(SPMHUT-144): Illegal arc specification.
+   Error was fixed.
+
+ERROR: in ARC SEGMENT end_points = (94.1565 30.5994) - (94.1565 30.5992)
+  class = BOARD GEOMETRY
+  subclass = SOLDERMASK_TOP 
+  ERROR(SPMHUT-144): Illegal arc specification.
+   Error was fixed.
+
+ERROR: in ARC SEGMENT end_points = (94.1697 13.4295) - (94.1698 13.4294)
+  class = BOARD GEOMETRY
+  subclass = SOLDERMASK_TOP 
+  ERROR(SPMHUT-144): Illegal arc specification.
+   Error was fixed.
+
+ERROR: in ARC SEGMENT end_points = (94.1698 13.4294) - (94.1698 13.4292)
+  class = BOARD GEOMETRY
+  subclass = SOLDERMASK_TOP 
+  ERROR(SPMHUT-144): Illegal arc specification.
+   Error was fixed.
+
+Number of Xnets before update: 0        after update: 0
+Number of Diff Pairs before update: 0   after update: 0
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:01
+
+0 warnings, 6 errors detected, 6 errors  fixed.

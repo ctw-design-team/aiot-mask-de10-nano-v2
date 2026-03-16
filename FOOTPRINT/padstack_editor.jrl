@@ -1,0 +1,6 @@
+\t (00:00:01) padstack_editor 22.1 P001 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Mar 12 18:17:32 2026
+\t (00:00:01)         Host=DESKTOP-3IHLHB4 User=dungxuan Pid=29160 CPUs=12
+\t (00:00:01) CmdLine= c:\cadence\spb_22.1\tools\bin\padstack_editor.exe C:\Version_9\FOOTPRINT\testpoint.pad
+\t (00:00:01) 
+\t (00:00:03)     Journal end - Thu Mar 12 18:17:34 2026

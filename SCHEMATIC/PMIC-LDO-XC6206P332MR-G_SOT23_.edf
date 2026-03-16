@@ -1,0 +1,240 @@
+
+(EDIF
+  (rename PMIC_45_LDO_45_XC6206P332MR_45_GSOT23 "PMIC-LDO-XC6206P332MR-GSOT23")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2023 06 06 13 02 44)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename PMIC_45_LDO_45_XC6206P332MR_45_GSOT23 "PMIC-LDO-XC6206P332MR-GSOT23")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename PMIC_45_XC6206P "PMIC-XC6206P")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "U")
+          (property (rename VALUE "Value") (string "PMIC-XC6206P"))
+          (port
+            (rename VSS "VSS")
+            (direction OUTPUT)
+            (property
+              (rename TYPE "Type")
+              (string "DBO_OUT")
+            )
+            (designator "1")
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename VOUT "VOUT")
+            (direction OUTPUT)
+            (property
+              (rename TYPE "Type")
+              (string "DBO_OUT")
+            )
+            (designator "2")
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename VIN "VIN")
+            (direction INPUT)
+            (property
+              (rename TYPE "Type")
+              (string "DBO_IN")
+            )
+            (designator "3")
+            (property
+              (rename ORDER "Order")
+              (integer 2)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -50000 -30000) (pt 50000 15000)))
+            (portImplementation
+              (name VIN
+                (display PINNAME
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt -40000 0))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt -46062 0))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -50000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -50000 0)
+                    (pt -40000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name VOUT
+                (display PINNAME
+                  (justify CENTERRIGHT)
+                  (orientation R0)
+                  (origin (pt 40000 0))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify CENTERLEFT)
+                  (orientation R0)
+                  (origin (pt 46062 0))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 50000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 50000 0)
+                    (pt 40000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name VSS
+                (display PINNAME
+                  (justify LOWERCENTER)
+                  (orientation R0)
+                  (origin (pt 0 -20000))
+                )
+              )
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify UPPERCENTER)
+                  (orientation R0)
+                  (origin (pt 0 -26062))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 -30000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 -30000)
+                    (pt 0 -20000)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -35000 15000) (pt 35000 15000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 35000 15000) (pt 35000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 35000 0) (pt 35000 -15000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 35000 -15000) (pt 0 -15000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -15000) (pt -35000 -15000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -35000 -15000) (pt -35000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -35000 0) (pt -35000 15000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -40000 0) (pt -35000 0)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -20000) (pt 0 -15000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 40000 0) (pt 35000 0)))
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -5007 20023))
+              )
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt -35043 20027))
+              )
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "SOT-23"))
+          )
+        )
+      )
+    )
+  )
+)

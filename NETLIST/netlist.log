@@ -1,0 +1,60 @@
+{ Using PSTWRITER 22.1.0 d001Mar-16-2026 at 14:31:52 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.13" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "CAM_VSYNC".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "JP1.03" ignored for JP1: SCHEMATIC1, S0_TOP (2.00, 1.10). Connecting pin to net "ESP_EN".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "JP1.04" ignored for JP1: SCHEMATIC1, S0_TOP (2.00, 1.10). Connecting pin to net "ESP_IO0".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "JP1.11" ignored for JP1: SCHEMATIC1, S0_TOP (2.00, 1.10). Connecting pin to net "V5_IN".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.15" ignored for J1: SCHEMATIC1, S2_CAMERA_OV2640_FPC (4.30, 2.30). Connecting pin to net "V1V2_CAM".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.31" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "I2C_SCL".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.32" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "I2C_SDA".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "JP1.01" ignored for JP1: SCHEMATIC1, S0_TOP (2.00, 1.10). Connecting pin to net "FPGA_TX_TO_ESP_RX".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "JP1.02" ignored for JP1: SCHEMATIC1, S0_TOP (2.00, 1.10). Connecting pin to net "FPGA_RX_FROM_ESP_TX".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.01" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "CAM_D0".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.03" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "CAM_D2".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.05" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "CAM_D4".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.07" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "CAM_D6".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.09" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "CAM_PCLK".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.10" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "CAM_HSYNC".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.14" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "CAM_XCLK".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.15" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "CAM_RESET".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.16" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "CAM_PWDN".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.33" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "CAM_SCCB_SCL".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "JP7.34" ignored for JP7: SCHEMATIC1, S0_TOP (5.10, 1.10). Connecting pin to net "CAM_SCCB_SDA".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "JP1.29" ignored for JP1: SCHEMATIC1, S0_TOP (2.00, 1.10). Connecting pin to net "DE10_VCC3P3".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.SH1" ignored for J1: SCHEMATIC1, S2_CAMERA_OV2640_FPC (4.30, 2.30). Connecting pin to net "GND".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.SH2" ignored for J1: SCHEMATIC1, S2_CAMERA_OV2640_FPC (4.30, 2.30). Connecting pin to net "GND".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.23" ignored for J1: SCHEMATIC1, S2_CAMERA_OV2640_FPC (4.30, 2.30). Connecting pin to net "GND".
+#25 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#1" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#26 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#15" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#27 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#38" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#28 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_1" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#29 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_2" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#30 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_3" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#31 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_4" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#32 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_5" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#33 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_6" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#34 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_7" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#35 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_8" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#36 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_9" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#37 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_10" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#38 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_11" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#39 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_12" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#40 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_13" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#41 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_14" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#42 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_15" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#43 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_16" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#44 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_17" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#45 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_18" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#46 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_19" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#47 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_20" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+#48 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#39_21" as visible power pin of same name already exists in Package ESP32-WROOM-32 , U4: SCHEMATIC1, S4_ESP32_MODULE (3.50, 0.70).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\Version_11\NETLIST\pstchip.dat
+
+Loading... C:\Version_11\NETLIST\pstchip.dat
+
+Loading... C:\Version_11\NETLIST\pstxprt.dat
+
+Loading... C:\Version_11\NETLIST\pstxnet.dat
+packaging the design view...

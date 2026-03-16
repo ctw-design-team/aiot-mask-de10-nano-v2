@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : 1.brd                                         )
+(    Software Version : 22.1P001                                      )
+(    Date/Time        : Tue Mar 10 21:51:53 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 3
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (-3.1400 89.1600)  Net: GND
+
+    Layer = BOTTOM
+	Point on shape: (2.7902 24.5098)  Net: GND
+	Point on shape: (2.7902 28.0098)  Net: GND

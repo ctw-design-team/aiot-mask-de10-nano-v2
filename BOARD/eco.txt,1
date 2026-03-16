@@ -1,0 +1,143 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Version_9/BOARD/1.brd                                                    |
+|                                                    Thu Mar 12 18:19:55 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ TEST POINT_TP_1MM_TP_CAM_D0
+ TEST POINT_TP_1MM_TP_CAM_PWDN
+ TEST POINT_TP_1MM_TP_CAM_RESET
+ TEST POINT_TP_1MM_TP_CAM_SCCB_SCL
+ TEST POINT_TP_1MM_TP_CAM_SCCB_SDA
+ TEST POINT_TP_1MM_TP_CAM_SIOC
+ TEST POINT_TP_1MM_TP_CAM_SIOD
+ TEST POINT_TP_1MM_TP_ESP_EN
+ TEST POINT_TP_1MM_TP_ESP_IO0
+ TEST POINT_TP_1MM_TP_FPGA_RX_FROM_ESP_TX
+ TEST POINT_TP_1MM_TP_FPGA_TX_TO_ESP_RX
+ TEST POINT_TP_1MM_TP_GND
+ TEST POINT_TP_1MM_TP_HSYNC
+ TEST POINT_TP_1MM_TP_I2C_SCL
+ TEST POINT_TP_1MM_TP_I2C_SDA
+ TEST POINT_TP_1MM_TP_PCLK
+ TEST POINT_TP_1MM_TP_V1V2_CAM
+ TEST POINT_TP_1MM_TP_V2V8_CAM
+ TEST POINT_TP_1MM_TP_V3V3_CAM
+ TEST POINT_TP_1MM_TP_V3V3_SYS
+ TEST POINT_TP_1MM_TP_V5_IN
+ TEST POINT_TP_1MM_TP_VSYNC
+ TEST POINT_TP_1MM_TP_XCLK
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Version_9/BOARD/1.brd                                                    |
+|                                                    Thu Mar 12 18:19:55 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ TP1                 TEST POINT_TP_1MM_TP_V5_IN                 TEST POINT_TP_NEW_TP_V5_IN
+ TP2                 TEST POINT_TP_1MM_TP_V3V3_SYS                 TEST POINT_TP_NEW_TP_V3V3_SYS
+ TP3                 TEST POINT_TP_1MM_TP_V3V3_CAM                 TEST POINT_TP_NEW_TP_V3V3_CAM
+ TP4                 TEST POINT_TP_1MM_TP_V2V8_CAM                 TEST POINT_TP_NEW_TP_V2V8_CAM
+ TP5                 TEST POINT_TP_1MM_TP_V1V2_CAM                 TEST POINT_TP_NEW_TP_V1V2_CAM
+ TP6                 TEST POINT_TP_1MM_TP_HSYNC                 TEST POINT_TP_NEW_TP_HSYNC
+ TP7                 TEST POINT_TP_1MM_TP_VSYNC                 TEST POINT_TP_NEW_TP_VSYNC
+ TP8                 TEST POINT_TP_1MM_TP_XCLK                 TEST POINT_TP_NEW_TP_XCLK
+ TP9                 TEST POINT_TP_1MM_TP_PCLK                 TEST POINT_TP_NEW_TP_PCLK
+ TP10                TEST POINT_TP_1MM_TP_CAM_SCCB_SCL                 TEST POINT_TP_NEW_TP_CAM_SCCB_SCL
+ TP11                TEST POINT_TP_1MM_TP_CAM_SCCB_SDA                 TEST POINT_TP_NEW_TP_CAM_SCCB_SDA
+ TP12                TEST POINT_TP_1MM_TP_CAM_SIOC                 TEST POINT_TP_NEW_TP_CAM_SIOC
+ TP13                TEST POINT_TP_1MM_TP_CAM_SIOD                 TEST POINT_TP_NEW_TP_CAM_SIOD
+ TP14                TEST POINT_TP_1MM_TP_I2C_SCL                 TEST POINT_TP_NEW_TP_I2C_SCL
+ TP15                TEST POINT_TP_1MM_TP_I2C_SDA                 TEST POINT_TP_NEW_TP_I2C_SDA
+ TP16                TEST POINT_TP_1MM_TP_GND                 TEST POINT_TP_NEW_TP_GND
+ TP17                TEST POINT_TP_1MM_TP_CAM_RESET                 TEST POINT_TP_NEW_TP_CAM_RESET
+ TP18                TEST POINT_TP_1MM_TP_CAM_PWDN                 TEST POINT_TP_NEW_TP_CAM_PWDN
+ TP19                TEST POINT_TP_1MM_TP_CAM_D0                 TEST POINT_TP_NEW_TP_CAM_D0
+ TP20                TEST POINT_TP_1MM_TP_FPGA_TX_TO_ESP_RX                 TEST POINT_TP_NEW_TP_FPGA_TX_TO_ESP_RX
+ TP21                TEST POINT_TP_1MM_TP_FPGA_RX_FROM_ESP_TX                 TEST POINT_TP_NEW_TP_FPGA_RX_FROM_ESP_TX
+ TP23                TEST POINT_TP_1MM_TP_ESP_EN                 TEST POINT_TP_NEW_TP_ESP_EN
+ TP24                TEST POINT_TP_1MM_TP_ESP_IO0                 TEST POINT_TP_NEW_TP_ESP_IO0
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Version_9/BOARD/1.brd                                                    |
+|                                                    Thu Mar 12 18:19:55 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ TP1.1                          PRIM_FILE      .\pstchip.dat
+ TP1.1                          XY             (150,90)
+ TP2.1                          PRIM_FILE      .\pstchip.dat
+ TP2.1                          XY             (300,90)
+ TP3.1                          PRIM_FILE      .\pstchip.dat
+ TP3.1                          XY             (460,90)
+ TP4.1                          PRIM_FILE      .\pstchip.dat
+ TP4.1                          XY             (650,90)
+ TP5.1                          PRIM_FILE      .\pstchip.dat
+ TP5.1                          XY             (820,90)
+ TP6.1                          PRIM_FILE      .\pstchip.dat
+ TP6.1                          XY             (150,180)
+ TP7.1                          PRIM_FILE      .\pstchip.dat
+ TP7.1                          XY             (300,180)
+ TP8.1                          PRIM_FILE      .\pstchip.dat
+ TP8.1                          XY             (460,180)
+ TP9.1                          PRIM_FILE      .\pstchip.dat
+ TP9.1                          XY             (640,180)
+ TP10.1                         PRIM_FILE      .\pstchip.dat
+ TP10.1                         XY             (820,180)
+ TP11.1                         PRIM_FILE      .\pstchip.dat
+ TP11.1                         XY             (150,260)
+ TP12.1                         PRIM_FILE      .\pstchip.dat
+ TP12.1                         XY             (300,260)
+ TP13.1                         PRIM_FILE      .\pstchip.dat
+ TP13.1                         XY             (460,260)
+ TP14.1                         PRIM_FILE      .\pstchip.dat
+ TP14.1                         XY             (640,260)
+ TP15.1                         PRIM_FILE      .\pstchip.dat
+ TP15.1                         XY             (820,260)
+ TP16.1                         PRIM_FILE      .\pstchip.dat
+ TP16.1                         XY             (70,340)
+ TP17.1                         PRIM_FILE      .\pstchip.dat
+ TP17.1                         XY             (300,340)
+ TP18.1                         PRIM_FILE      .\pstchip.dat
+ TP18.1                         XY             (450,340)
+ TP19.1                         PRIM_FILE      .\pstchip.dat
+ TP19.1                         XY             (610,340)
+ TP20.1                         PRIM_FILE      .\pstchip.dat
+ TP20.1                         XY             (790,340)
+ TP21.1                         PRIM_FILE      .\pstchip.dat
+ TP21.1                         XY             (180,410)
+ TP23.1                         PRIM_FILE      .\pstchip.dat
+ TP23.1                         XY             (610,430)
+ TP24.1                         PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Version_9/BOARD/1.brd                                                    |
+|                                                    Thu Mar 12 18:19:55 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ TP24.1                         XY             (790,430)
+|------------------------------------------------------------------------------|
+|       Comp definitions added:      23                                        |
+|       Components changed    :      23                                        |
+|       Slot property added   :      46                                        |
+|                                                                              |
+|   Total ECO changes reported:      92                                        |
+|------------------------------------------------------------------------------|

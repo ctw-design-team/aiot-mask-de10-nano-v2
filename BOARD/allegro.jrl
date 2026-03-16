@@ -1,0 +1,106 @@
+\t (00:00:04) allegro 22.1 P001 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Mon Mar 16 15:44:46 2026
+\t (00:00:04)         Host=NHATNAM User=Nhat Nam Pid=34240 CPUs=12
+\t (00:00:04) CmdLine= c:\cadence\spb_22.1\tools\bin\allegro.exe D:\CTW_SEVINA\PCB\DE10_NANO\Version_11\BOARD\1.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 1
+\d (00:00:04) Design opened: D:/CTW_SEVINA/PCB/DE10_NANO/Version_11/BOARD/1.brd
+\i (00:00:05) trapsize 1413
+\i (00:00:05) trapsize 1453
+\i (00:00:05) trapsize 1413
+\i (00:00:05) trapsize 1634
+\i (00:00:05) trapsize 1687
+\i (00:00:05) trapsize 1687
+\i (00:00:05) generaledit 
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 19.1255 2.6691
+\i (00:00:06) trapsize 3374
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 19.0580 2.6016
+\i (00:00:06) trapsize 6748
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 18.3832 2.3317
+\i (00:00:06) trapsize 13495
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 13.2552 2.0618
+\i (00:00:06) trapsize 26990
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 90.3010 36.1065
+\i (00:00:06) trapsize 13495
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 93.8097 37.1861
+\i (00:00:07) trapsize 6748
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 47.3869 88.7371
+\i (00:00:08) trapsize 13495
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 90.5709 64.7160
+\i (00:00:26) trapsize 6748
+\i (00:00:32) dbdoctor 
+\i (00:00:34) setwindow form.dbdoctor_allegro
+\i (00:00:34) FORM dbdoctor_allegro xnets YES 
+\i (00:00:34) FORM dbdoctor_allegro shapes YES 
+\i (00:00:35) FORM dbdoctor_allegro drc YES 
+\i (00:00:35) FORM dbdoctor_allegro execute  
+\t (00:00:35) Dbdoctor in progress - wait...
+\t (00:00:35) Checking db records
+\t (00:00:35)     checking for orphans...
+\t (00:00:35)     Checked  36 percent
+\t (00:00:35)     Checked  72 percent
+\t (00:00:35)     Checked 100 percent
+\t (00:00:35) Regenerating DRC
+\t (00:00:35)   Original DRC errors: 0
+\t (00:00:35) Performing DRC...
+\t (00:00:35) Multithreaded DRC update (12 threads).
+\t (00:00:36) No DRC errors detected.
+\t (00:00:36)   Updated DRC errors:  0
+\t (00:00:36) Done dbdoctor.
+\t (00:00:36) Dbdoctor completed.
+\i (00:00:38) FORM dbdoctor_allegro close  
+\i (00:00:38) setwindow pcb
+\i (00:00:38) generaledit 
+\i (00:00:41) nctape_full 
+\i (00:00:45) setwindow form.nc_drill
+\i (00:00:45) FORM nc_drill execute  
+\t (00:00:45) Starting Generating NC Drill...
+\i (00:00:49) FORM nc_drill close  
+\i (00:00:49) setwindow pcb
+\i (00:00:49) generaledit 
+\i (00:00:50) artwork 
+\i (00:00:53) setwindow form.film_control
+\i (00:00:53) FORM film_control select_all  
+\i (00:00:54) FORM film_control create  
+\i (00:00:56) fillin yes 
+\t (00:00:56) Checking db records
+\t (00:00:56)     checking for orphans...
+\t (00:00:56)     Checked  35 percent
+\t (00:00:56)     Checked  71 percent
+\t (00:00:56)     Checked 100 percent
+\t (00:00:56) Done dbdoctor.
+\t (00:00:56) Starting Create artwork films...
+\w (00:00:56) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:00:57) Artwork generated with warnings.
+\i (00:01:03) setwindow text
+\i (00:01:03) close
+\i (00:01:05) setwindow form.film_control
+\i (00:01:05) FORM film_control cancel  
+\i (00:01:05) setwindow pcb
+\i (00:01:05) generaledit 
+\i (00:01:06) pick grid 151.7033 14.6496
+\t (00:01:06) last pick:  151.7000 14.6500
+\i (00:01:07) save 
+\i (00:01:08) fillin yes 
+   (00:01:08) Loading signal.cxt 
+\i (00:01:08) generaledit 
+\i (00:02:12) exit 
+\t (00:02:12)     Journal end - Mon Mar 16 15:46:53 2026
