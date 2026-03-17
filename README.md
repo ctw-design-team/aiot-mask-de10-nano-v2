@@ -38,4 +38,7 @@ You can view the PCB 3D model here:
 
 ## License
 
-TBD
+## License
+
+This project is licensed under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)**.  
+See the `LICENSE` file for the full license text.
